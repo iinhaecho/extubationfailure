@@ -1,0 +1,6 @@
+# real extu가 dischtime, deathtime보다 늦은 경우
+# 사망 시간보다 퇴원 시간이 빠른 경우(퇴원하고 사망?)
+
+# 삽관 기간 이상
+# subjectlist2_unable[subjectlist2_unable.hadm_id == 23202662][['subject_id','hadm_id','stay_id','intubationtime','extubationtime','intu_data','extu_data']]
+# subjectlist2_unable[subjectlist2_unable.hadm_id == 29926463][['subject_id','hadm_id','stay_id','intubationtime','extubationtime','intu_data','extu_data']]
